@@ -39,8 +39,13 @@
   </br>
   </br>
   
+  <div style ="text-align:center";>
   
   <img align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngh0&show_icons=true&theme=vue)</img>
+  </div>
+  
+  
+  
 </p>
 
 
