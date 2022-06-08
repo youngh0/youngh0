@@ -47,6 +47,7 @@
   
   
 </p>
+Tech Blog : <a href="https://00h0.tistory.com/">https://00h0.tistory.com/</a>
 
 
 <!--
