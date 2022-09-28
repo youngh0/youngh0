@@ -36,6 +36,11 @@
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
   </p>
+  <h3 align="center">📖 Tech Blog 📖</h3>
+  <p align="center">
+  <a href="https://00h0.tistory.com/">https://00h0.tistory.com/</a>
+  </p>
+  </p>
   </br>
   </br>
   
@@ -47,7 +52,7 @@
   
   
 </p>
-Tech Blog : <a href="https://00h0.tistory.com/">https://00h0.tistory.com/</a>
+
 
 
 <!--
