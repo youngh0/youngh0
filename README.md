@@ -1,33 +1,12 @@
 <!-- ### Hi there 👋 -->
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+
 
 <p align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-    <!--   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> -->
-  </p>
+  
 
-
-  <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
-   
-
-  </p>
-
-  <h3 align="center">✉ Contact ✉</h3>
-  <p align="center">
-    <a href="mailto:cyh6099@kookmin.ac.kr">
-    <img
-    src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyh6099@kookmin.ac.kr"
-    style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
-  </p>
-  <h3 align="center">📖 Tech Blog 📖</h3>
-  <p align="center">
+  
+  <h3 >📖 Tech Blog 📖</h3>
+  <p >
   <a href="https://00h0.tistory.com/">https://00h0.tistory.com/</a>
   </p>
   </p>
